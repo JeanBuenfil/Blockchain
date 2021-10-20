@@ -16,6 +16,7 @@ P5: El sistema mostrará el comentario de manera pública
 
 
 
+
 # CU04: El usuario podrá usar lector de pantalla en la información
 ## Descripción: 
 El usuario podrá activar el lector de pantalla para recibir la información de manera auditiva
